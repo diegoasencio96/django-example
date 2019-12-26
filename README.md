@@ -1,2 +1,2 @@
 # django-example
-This project is developed Django Framework
+This a Project example in Django Framework
